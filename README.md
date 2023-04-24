@@ -1,9 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Selim
-=============================================================================================================================
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" height="32"></img>  ,I'm Selim</h1> 
 
-Developer.Designer
+
+<h4 align="center">A passionate Backend Developer from Turkiye <img src="https://media.tenor.com/v2iJghr27l0AAAAC/turkey-flag-turkish.gif" width="32" height="32"></img>  </h4> 
+ 
 ------------------
 
+<img align="right" src="" width="400" height="300"></img>
+
+
+💫 About Me:
+------------------
 Selim is a C# Developer and Designer with a passion. He is a full-time Backend Developer with a year of experience in Software Development and Web Designing. And also trying to learn Deutsch 🇩🇪
 
 *   🌍  I'm based in Istanbul, Turkiye
@@ -11,7 +17,15 @@ Selim is a C# Developer and Designer with a passion. He is a full-time Backend D
 *   🚀  I'm currently working on [Metrik Bilisim](http://https://metrikbilisim.com)
 *   🧠  I'm learning C,C#,Html,Css,SQL and Asp.Net Core
 
-Skills
+
+Connect with me:
+------------------
+                  
+                  
+<p align="left">  <a href="https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra?si=36cfe13b9bbb4b85" target="_blank" rel="noreferrer"><img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="32" height="32" /></a> <a href="https://discord.com/users/s3limm#1529" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/https://github.com/s3limm?tab=repositories" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/s3limm06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  <a href="mailto:selimemrem@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" /></a></p>
+
+
+Languages and Tools:
 ------------------
 
 <p align="left">
@@ -27,8 +41,9 @@ Skills
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
                     
-Socials
-------------------
-                  
-                  
-<p align="left">  <a href="https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra?si=36cfe13b9bbb4b85" target="_blank" rel="noreferrer"><img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="32" height="32" /></a> <a href="https://discord.com/users/s3limm#1529" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/https://github.com/s3limm?tab=repositories" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/s3limm06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=s3limm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=s3limm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=s3limm&theme=dark&hide_border=false)<br/>
