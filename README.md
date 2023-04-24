@@ -1,8 +1,10 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" height="32"></img>  ,I'm Selim</h1> 
+<div id="about-me" align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Selim;Welcome+to+my+profile+%F0%9F%98%8E" alt="Typing SVG" /></a>
+</div>
 
 
-<h4 align="center">A passionate Backend Developer from Turkiye <img src="https://media.tenor.com/v2iJghr27l0AAAAC/turkey-flag-turkish.gif" width="32" height="32"></img>  </h4> 
+<h4 align="center">A passionate Backend Developer from Turkiye 🇹🇷 </h4> 
  
+[![](https://visitcount.itsvg.in/api?id=s3limm&icon=2&color=0)](https://visitcount.itsvg.in)
 ------------------
 
 <img align="right" src="" width="400" height="300"></img>
