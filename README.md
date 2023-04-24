@@ -11,7 +11,8 @@ Selim is a C# Developer and Designer with a passion. He is a full-time Backend D
 *   🚀  I'm currently working on [Metrik Bilisim](http://https://metrikbilisim.com)
 *   🧠  I'm learning C,C#,Html,Css,SQL and Asp.Net Core
 
-Skills 
+Skills
+------------------
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -26,17 +27,8 @@ Skills
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
                     
-                  ### Socials
+Socials
+------------------
                   
                   
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/s3limm#1529" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/https://github.com/s3limm?tab=repositories" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/s3limm06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/https://github.com/s3limm?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/s3limm?tab=repositories&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/s3limm?tab=repositories's GitHub stats" /></a><a
-                      href="http://www.github.com/https://github.com/s3limm?tab=repositories"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/s3limm?tab=repositories&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/https://github.com/s3limm?tab=repositories"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=https://github.com/s3limm?tab=repositories&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/https://github.com/s3limm?tab=repositories" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/s3limm?tab=repositories&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"> <a href="https://discord.com/users/s3limm#1529" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/https://github.com/s3limm?tab=repositories" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/s3limm06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra?si=ec1db709bfa847e1" target="_blank" rel="noreferrer"> <img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="32px" height=32px" /></a> </p>
