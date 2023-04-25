@@ -1,4 +1,4 @@
-<img align="center" src="https://www.bhmpics.com/downloads/lofi-gif/11..gif" width="1080" height="400"></img>
+<img align="center" src="https://www.bhmpics.com/downloads/lofi-gif/11..gif" width="1080" height="600"></img>
 
 
 
@@ -18,7 +18,7 @@
 
 <img align="right" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="400" height="240"></img>
 
-Selim is a C# Developer and Designer with a passion. He is a full-time Backend Developer with a year of experience in Software Development and Web Designing. And also trying to learn Deutsch 🇩🇪
+I'm a C# Developer and Designer with a passion. I'm a full-time Backend Developer with a year of experience in Software Development and Web Designing. And also trying to learn Deutsch 🇩🇪
 
 *   🌍  I'm based in Istanbul, Turkiye
 *   ✉️  You can contact me at [selimemrem@gmail.com](mailto:selimemrem@gmail.com)
