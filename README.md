@@ -52,11 +52,6 @@ Languages and Tools:
 </p>
   
   
-  
-  
-  
-  
-  
 
 
 
