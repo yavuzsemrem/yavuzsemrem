@@ -1,12 +1,14 @@
-<img align="center" src="https://www.bhmpics.com/downloads/lofi-gif/11..gif" width="1080" height="500"></img>
-
-
-
 <div id="about-me" align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Selim;Welcome+to+my+profile+%F0%9F%98%8E" alt="Typing SVG" /></a>
 </div>
 
 
 <h4 align="center">A passionate Backend Developer from Turkiye 🇹🇷 </h4> 
+
+
+
+<img align="center" src="https://www.bhmpics.com/downloads/lofi-gif/11..gif" width="1080" height="500"></img>
+
+
  
 [![](https://visitcount.itsvg.in/api?id=s3limm&icon=2&color=0)](https://visitcount.itsvg.in)
 ------------------
