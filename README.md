@@ -1,4 +1,4 @@
-<img align="center" src="https://www.bhmpics.com/downloads/lofi-gif/11..gif" width="1080" height="600"></img>
+<img align="center" src="https://www.bhmpics.com/downloads/lofi-gif/11..gif" width="1080" height="500"></img>
 
 
 
