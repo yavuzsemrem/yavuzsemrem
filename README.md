@@ -4,7 +4,7 @@
 
  
 
-<img align="center" src="https://www.canva.com/design/DAFkxfBb_8Q/watch" width="1080" height="500"></img>
+<img align="center" src="file:///Users/selim/Downloads/Adsız%20tasarım.gif" width="1080" height="500"></img>
 
 
  
