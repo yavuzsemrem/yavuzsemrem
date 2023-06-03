@@ -4,7 +4,7 @@
 
  
 
-<img align="center" src="file:///Users/selim/Downloads/Adsız%20tasarım.gif" width="1080" height="500"></img>
+<img align="center" src="https://github.com/s3limm/SEA/blob/main/Logo.gif?raw=true" width="1080" height="500"></img>
 
 
  
