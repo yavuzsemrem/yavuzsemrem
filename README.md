@@ -4,7 +4,7 @@
 
  
 
-<img align="center" src="https://github.com/s3limm/SEA/blob/main/Logo.gif?raw=true" width="1080" height="500"></img>
+<img align="center" src="https://i.giphy.com/media/LT6rLGLA6Pf2jP81kE/giphy.webp" width="1080" height="500"></img>
 
 
  
