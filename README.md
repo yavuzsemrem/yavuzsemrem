@@ -4,7 +4,7 @@
 
  
 
-<img align="center" src="https://raw.githubusercontent.com/s3limm/SEA/main/Adsız%20tasarım.gif?token=GHSAT0AAAAAACBM6XNEUTCSM3BRNVRU5YV2ZD7JETQ" width="1080" height="600"></img>
+<img align="center" src="https://raw.githubusercontent.com/s3limm/SEA/main/Adsız%20tasarım.gif?token=GHSAT0AAAAAACBM6XNEUTCSM3BRNVRU5YV2ZD7JETQ" width="1080" height="500"></img>
 
 
  
