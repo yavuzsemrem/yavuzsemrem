@@ -4,8 +4,11 @@
 
  
 
-<img align="center" src="https://www.canva.com/design/DAFkxfBb_8Q/watch" width="960" height="400"></img>
+<img align="center" src="https://www.canva.com/design/DAFkxfBb_8Q/watch" width="1080" height="500"></img>
 
+<video width="1080" height="500" controls="controls">
+<source src ="https://www.canva.com/design/DAFkxfBb_8Q/watch"/>
+</video>
 
  
 [![](https://visitcount.itsvg.in/api?id=s3limm&icon=2&color=0)](https://visitcount.itsvg.in)
