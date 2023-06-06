@@ -6,7 +6,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/s3limm/SEA/main/Adsız%20tasarım.gif?token=GHSAT0AAAAAACBM6XNEUTCSM3BRNVRU5YV2ZD7JETQ" width="1080" height="600"></img>
 
-t
+
  
 [![](https://visitcount.itsvg.in/api?id=s3limm&icon=2&color=0)](https://visitcount.itsvg.in)
 ------------------
