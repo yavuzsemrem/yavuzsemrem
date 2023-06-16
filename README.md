@@ -3,7 +3,7 @@
 </div>
 
  
-<img align="center" src="https://raw.githubusercontent.com/s3limm/SEA/main/Adsız%20tasarım.gif?token=GHSAT0AAAAAACBM6XNF73OLDZRV6NFG4JKEZEMNQBA" width="1080" height="500"></img>
+<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/2014845430230688392/144B1071358ABAA57A993E04638A52DB77753DFE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1080" height="500"></img>
 
 
 
