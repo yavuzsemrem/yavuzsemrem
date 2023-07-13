@@ -18,7 +18,7 @@
 
 <img align="right" src="https://wallpaperaccess.com/full/8088665.gif" width="400" height="240"></img>
 
-I'm a C# Developer and Designer with a passion. I'm a full-time Backend Developer with a year of experience in Software Development and Web Designing. And also trying to learn Deutsch 🇩🇪
+I'm a C# Developer and Designer with a passion. I'm a full-time Backend Developer with a year of experience in Software Development and Web Designing.
 
 *   🌍  I'm based in Istanbul, Turkiye
 *   ✉️  You can contact me at [selimemrem06@gmail.com](mailto:selimemrem@gmail.com)
