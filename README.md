@@ -22,7 +22,7 @@ I'm a C# Developer and Designer with a passion. I'm a full-time Backend Develope
 
 *   🌍  I'm based in Istanbul, Turkiye
 *   ✉️  You can contact me at [selimemrem06@gmail.com](mailto:selimemrem@gmail.com)
-*   🧠  I'm learning C,C#,Javascript,SQL and Asp.Net Core
+*   🧠  I'm learning C#,Swift,SQL and Python
 
 
 Connect with me:
