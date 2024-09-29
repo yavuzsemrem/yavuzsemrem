@@ -36,7 +36,7 @@ Languages and Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,apple,cs,dotnet,html,css,firebase,bootstrap,github,ae,ai,notion,ps,postman,wordpress," />
+    <img src="https://skillicons.dev/icons?i=swift,cs,dotnet,html,css,firebase,bootstrap,github,ae,ai,ps,notion,postman,wordpress," />
   </a>
 </p>
   
