@@ -3,7 +3,7 @@
 </div>
 
  
-<img align="center" src="https://developer.apple.com/wwdc24/images/motion/axiju/endframe-small_2x.jpg" width="800" height="800"></img>
+<img align="center" src="https://developer.apple.com/wwdc24/images/motion/axiju/endframe-small_2x.jpg" width="600" height="600"></img>
 
 
 
