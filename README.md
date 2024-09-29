@@ -1,7 +1,7 @@
 💫 About Me:
 ------------------
 
-<img align="right" src="https://cdn.mos.cms.futurecdn.net/xtZzNhvA4MjYFicmHL8Amc.gif" width="400" height="240"></img>
+<img src="https://cdn.mos.cms.futurecdn.net/xtZzNhvA4MjYFicmHL8Amc.gif" width="400" height="240"></img>
 
 I'm a C# Developer and Designer with a passion. I'm a full-time Backend Developer with a year of experience in Software Development and Web Designing.
 
