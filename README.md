@@ -3,7 +3,7 @@
 </div>
 
  
-<img align="center" src="https://logocreator.io/wp-content/uploads/2023/11/apple-inc-minimalism-logo-simple-wallpaper-preview.jpg" width="728" height="455"></img>
+<img align="center" src="https://developer.apple.com/wwdc24/images/motion/axiju/endframe-small_2x.jpg" width="1800" height="1800"></img>
 
 
 
