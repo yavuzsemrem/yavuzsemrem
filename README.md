@@ -50,6 +50,10 @@
     <img src="https://skillicons.dev/icons?i=swift,cs,dotnet,html,css,firebase,bootstrap,github,ae,ai,ps,notion,postman,wordpress," />
   </a>
 </p>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
   
 
 
