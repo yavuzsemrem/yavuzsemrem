@@ -1,9 +1,6 @@
 <div align = "center"> <h1 style="weight:bold">Hi, I'm Yavuz Selim Emrem </h1></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&weight=700&pause=1000&color=F747A7&background=FF1E6400&width=435&lines=Passionate+about+Swift+Development;+IOS+Developer+%26+Computer+Programmer;I+lose+my+mind+when+I+work+with+it+)](https://git.io/typing-svg)
-
-
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro&weight=700&pause=1000&color=F747A7&background=FF1E6400&width=435&lines=Passionate+about+Swift+Development;+IOS+Developer+%26+Computer+Programmer;I+lose+my+mind+when+I+work+with+it)" />
 </p>
 
