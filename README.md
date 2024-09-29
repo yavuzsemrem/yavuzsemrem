@@ -12,7 +12,6 @@
 <div align="center">I’m a passionate IOS Developer with experience in various technologies including Swift, SwiftUI, C#, .NET, SQL, and HTML/CSS. I love creating robust, scalable, and efficient software solutions, with a focus on clean code and architecture. </div>
 
 
-------------------
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -42,7 +41,7 @@ Connect with me:
 
 
 
-Languages and Tools:
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 ------------------
 
 <p align="center">
