@@ -34,6 +34,33 @@ Connect with me:
   <a href="https://www.instagram.com/_yavuzsemrem/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/yavuz-selim-emrem-65baa0273/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+   <a href="https://x.com/s3limm06">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+
+ <a href="mailto:selimemrem@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  
+
+  <a href="https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra?si=36cfe13b9bbb4b85">
+    <img src="https://skillicons.dev/icons?i=spotify" />
+  </a>
+
+<a href="https://discord.com/users/s3limm#1529">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+
+  <a href="https://steamcommunity.com/profiles/76561199496950614/">
+    <img src="https://skillicons.dev/icons?i=steam" />
+  </a>
+
+
 </p>
 
 
