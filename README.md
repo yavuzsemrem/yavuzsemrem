@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&weight=700&pause=1000&color=F747A7&background=FF1E6400&width=435&lines=Passionate+about+Swift+Development;+IOS+Developer+%26+Computer+Programmer;I+lose+my+mind+when+I+work+with+it+)](https://git.io/typing-svg)
 
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro&weight=700&pause=1000&color=F747A7&background=FF1E6400&width=435&lines=Passionate+about+Swift+Development;+IOS+Developer+%26+Computer+Programmer;I+lose+my+mind+when+I+work+with+it)" />
+</p>
+
+
 <img align="center" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/wwdc23-keynote-logo.gif?w=1200" width="800" height="500"></img>
 </br>
 </br>
