@@ -15,9 +15,9 @@ A Filipino self-taught software engineer, open-source maintainer, cybersecurity 
 ## 🎧 Spotify Playing
 
 [![Mix Music](https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4akRSn4A8ED1msFLvbmXvI?si=e62acfdb00dd4507&pt=b047cfb36efbcb2e31dfd1d1023f3405) 
-[![Metal Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) 
-[![Turkish Pop Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) 
-[![R&B Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
+[![Pop Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) 
+[![Rap Music](https://img.shields.io/badge/Rap%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1l7u0WZIQ3GHNe97uDaw28?si=c92fa01e2c2b469d) 
+[![R&B Music](https://img.shields.io/badge/R&B%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2RqIekw5xSufcGM02cSec5?si=efa754fadea24d3d)
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
