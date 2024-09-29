@@ -6,7 +6,7 @@
 </br>
 </br>
 
-I’m a passionate IOS Developer with experience in various technologies including Swift, SwiftUI, C#, .NET, SQL, and HTML/CSS. I love creating robust, scalable, and efficient software solutions, with a focus on clean code and architecture. 💻
+<div align="center">I’m a passionate IOS Developer with experience in various technologies including Swift, SwiftUI, C#, .NET, SQL, and HTML/CSS. I love creating robust, scalable, and efficient software solutions, with a focus on clean code and architecture. </div>
 
 
 ------------------
