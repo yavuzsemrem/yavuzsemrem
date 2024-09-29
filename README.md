@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&weight=700&pause=1000&background=FF1E6400&width=435&lines=Passionate+about+Swift+Development;+IOS+Developer+%26+Computer+Programmer;I+lose+my+mind+when+I+work+with+it+)](https://git.io/typing-svg)
 
-[![An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/warengonzaga)](https://holopin.io/@warengonzaga)
+<img align="center" src="https://pbs.twimg.com/media/FxuqC_caEAAdIaL?format=jpg&name=4096x4096" width="1200" height="600"></img>
 
 I’m a passionate IOS Developer with experience in various technologies including Swift, SwiftUI, C#, .NET, SQL, and HTML/CSS. I love creating robust, scalable, and efficient software solutions, with a focus on clean code and architecture. 💻
 
 
 ------------------
 
-<img align="center" src="https://pbs.twimg.com/media/FxuqC_caEAAdIaL?format=jpg&name=4096x4096" width="1200" height="600"></img>
+
 
 
 ## 🎧 Spotify Playing
