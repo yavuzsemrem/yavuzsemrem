@@ -18,7 +18,8 @@
 
 
 
-## 🎧 Spotify Playing
+# Spotify Playing : 🎧
+------------------
 
 [![Mix Music](https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4akRSn4A8ED1msFLvbmXvI?si=e62acfdb00dd4507&pt=b047cfb36efbcb2e31dfd1d1023f3405) 
 [![Pop Music](https://img.shields.io/badge/Pop%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) 
@@ -28,7 +29,7 @@
 [![Spotify](https://readme-spotify.Spotify-widget.com/api/spotify)](https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra)
 
 
-Connect with me:
+# Connect with me :
 ------------------
                   
                   
