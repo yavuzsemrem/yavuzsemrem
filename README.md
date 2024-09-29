@@ -1,5 +1,5 @@
 
-<img src="https://cdn.mos.cms.futurecdn.net/xtZzNhvA4MjYFicmHL8Amc.gif" width="400" height="240"></img>
+<img style="align:center" src="https://cdn.mos.cms.futurecdn.net/xtZzNhvA4MjYFicmHL8Amc.gif" width="400" height="240"></img>
 
 💫 About Me:
 ------------------
