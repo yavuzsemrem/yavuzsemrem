@@ -28,40 +28,26 @@ Connect with me:
 ------------------
                   
                   
-<p align="center"> <a href="https://www.instagram.com/_yavuzsemrem/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" /></a> <a href="https://steamcommunity.com/profiles/76561199496950614/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" width="32" height="32" /></a> <a href="https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra?si=36cfe13b9bbb4b85" target="_blank" rel="noreferrer"><img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="32" height="32" /></a> <a href="https://discord.com/users/s3limm#1529" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="mailto:selimemrem@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yavuz-selim-emrem-65baa0273/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-2752135-2284952.png?f=avif&w=512" width="32" height="32" /></a></p>
-
 <p align="center">
-  <a href="https://www.instagram.com/_yavuzsemrem/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
   
-  <a href="https://www.linkedin.com/in/yavuz-selim-emrem-65baa0273/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <a href="https://www.instagram.com/_yavuzsemrem/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" /></a> 
 
-   <a href="https://x.com/s3limm06">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+<a href="https://www.linkedin.com/in/yavuz-selim-emrem-65baa0273/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-2752135-2284952.png?f=avif&w=512" width="32" height="32" /></a>
 
- <a href="mailto:selimemrem@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <a href="https://x.com/s3limm06" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" width="32" height="32" /></a>
+
+  <a href="mailto:selimemrem@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" /></a>
+
+    <a href="https://discord.com/users/s3limm#1529" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+
+    <a href="https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra?si=36cfe13b9bbb4b85" target="_blank" rel="noreferrer"><img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="32" height="32" /></a>
   
-
-  <a href="https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra?si=36cfe13b9bbb4b85">
-    <img src="https://skillicons.dev/icons?i=spotify" />
-  </a>
-
-<a href="https://discord.com/users/s3limm#1529">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-
-  <a href="https://steamcommunity.com/profiles/76561199496950614/">
-    <img src="https://skillicons.dev/icons?i=steam" />
-  </a>
-
-
-</p>
+  <a href="https://steamcommunity.com/profiles/76561199496950614/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" width="32" height="32" /></a> 
+  
+  
+  
+  
+  </p>
 
 
 
