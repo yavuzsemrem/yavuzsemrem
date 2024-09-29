@@ -1,6 +1,6 @@
 # Hi, I'm Yavuz Selim Emrem 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&weight=700&pause=1000&background=FF1E6400&width=435&lines=Passionate+about+Swift+Development;+IOS+Developer+%26+Computer+Programmer;I+lose+my+mind+when+I+work+with+it+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&weight=700&pause=1000&background=FF1E6400&center=true&vCenter=true&width=435&lines=Passionate+about+Swift+Development;+IOS+Developer+%26+Computer+Programmer;I+lose+my+mind+when+I+work+with+it+%3AD)](https://git.io/typing-svg)
 
 [![An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/warengonzaga)](https://holopin.io/@warengonzaga)
 
