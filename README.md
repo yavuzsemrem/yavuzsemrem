@@ -3,7 +3,7 @@
 </div>
 
  
-<img align="center" src="[https://i.pinimg.com/originals/25/63/8c/25638ca8b85cccc2d210923f86f3368b.gif](https://raw.githubusercontent.com/yavuzsemrem/AudiWebsiteClone/refs/heads/2-branch/Mavi%20Piyano%20Tuşları%20Müzik%20Youtube%20Banner.png?token=GHSAT0AAAAAACUEFPA6CJGRISX23R453EAOZXZR2LA)" width="800" height="600"></img>
+<img align="center" src="https://logocreator.io/wp-content/uploads/2023/11/apple-inc-minimalism-logo-simple-wallpaper-preview.jpg" width="800" height="600"></img>
 
 
 
