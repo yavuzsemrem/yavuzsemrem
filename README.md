@@ -19,7 +19,6 @@
 
 
 # Spotify Playing : 🎧
-------------------
 
 [![Mix Music](https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4akRSn4A8ED1msFLvbmXvI?si=e62acfdb00dd4507&pt=b047cfb36efbcb2e31dfd1d1023f3405) 
 [![Pop Music](https://img.shields.io/badge/Pop%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) 
@@ -28,22 +27,19 @@
 
 [![Spotify](https://readme-spotify.Spotify-widget.com/api/spotify)](https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra)
 
+------------------
 
 # Connect with me :
-------------------
-                  
-                  
-
 
 
 <div>
 <p align="left">  <a href="https://www.instagram.com/_yavuzsemrem/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=instagram" width="45" height="45";/></a>  <a href="https://www.linkedin.com/in/yavuz-selim-emrem-65baa0273/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-2752135-2284952.png?f=avif&w=512" width="45" height="45" /></a>  <a href="https://x.com/s3limm06" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" width="45" height="45" /></a>  <a href="mailto:selimemrem@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="45" /></a>  <a href="https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra?si=36cfe13b9bbb4b85" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="45" height="45" /></a>  <a href="https://steamcommunity.com/profiles/76561199496950614/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" width="45" height="45" /></a>  <a href="https://discord.com/users/s3limm#1529" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="45" height="45" /></a>  </p>
 </div>
 
-
+------------------
 
 # Skills : <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
-------------------
+
 
 <p align="center">
   <a href="https://skillicons.dev">
