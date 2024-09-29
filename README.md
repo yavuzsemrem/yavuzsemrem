@@ -3,7 +3,7 @@
 </div>
 
  
-<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/2014845430230688392/144B1071358ABAA57A993E04638A52DB77753DFE/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="1080" height="500"></img>
+<img align="center" src="https://cdn.dribbble.com/users/846207/screenshots/5495768/apple-logo-2018.gif" width="1080" height="500"></img>
 
 
 
