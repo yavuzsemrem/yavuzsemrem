@@ -1,18 +1,3 @@
-
-<div id="about-me" align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Selim;Welcome+to+my+profile" alt="Typing SVG" /></a>
-</div>
-
- 
-<img align="center" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/wwdc23-keynote-logo.gif?w=1200" width="1200" height="600"></img>
-
-
-
- 
-[![](https://visitcount.itsvg.in/api?id=s3limm&icon=2&color=0)](https://visitcount.itsvg.in)
-------------------
-
-
-
 💫 About Me:
 ------------------
 
@@ -23,6 +8,11 @@ I'm a C# Developer and Designer with a passion. I'm a full-time Backend Develope
 *   🌍  I'm based in Istanbul, Turkiye
 *   ✉️  You can contact me at [selimemrem06@gmail.com](mailto:selimemrem@gmail.com)
 *   🧠  I'm learning C#,Swift,SQL and Python
+
+
+------------------
+
+<img align="center" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/wwdc23-keynote-logo.gif?w=1200" width="1200" height="600"></img>
 
 
 Connect with me:
