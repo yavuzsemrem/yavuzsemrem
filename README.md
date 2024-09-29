@@ -3,7 +3,7 @@
 </div>
 
  
-<img align="center" src="https://cdn.mos.cms.futurecdn.net/xtZzNhvA4MjYFicmHL8Amc.gif" width="600" height="600"></img>
+<img align="center" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/wwdc-swift.gif?w=1200" width="1200" height="600"></img>
 
 
 
