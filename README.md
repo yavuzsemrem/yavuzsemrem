@@ -19,7 +19,7 @@ I’m a passionate IOS Developer with experience in various technologies includi
 [![Rap Music](https://img.shields.io/badge/Rap%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1l7u0WZIQ3GHNe97uDaw28?si=c92fa01e2c2b469d) 
 [![R&B Music](https://img.shields.io/badge/R&B%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2RqIekw5xSufcGM02cSec5?si=efa754fadea24d3d)
 
-[![Spotify](https://readme-spotify.s3limm.com/api/spotify)](https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra)
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra)
 
 
 Connect with me:
