@@ -1,18 +1,10 @@
+# Hi, I'm Waren Gonzaga (💻💖☕) [![nominate](https://img.shields.io/badge/nominate-%20@warengonzaga%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
 
-<img class="center" src="https://cdn.mos.cms.futurecdn.net/xtZzNhvA4MjYFicmHL8Amc.gif" width="400" height="240"></img>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Enthusiast;Technopreneur)](https://git.io/typing-svg)
 
-💫 About Me:
-------------------
+[![An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/warengonzaga)](https://holopin.io/@warengonzaga)
 
-I'm a C# Developer and Designer with a passion. I'm a full-time Backend Developer with a year of experience in Software Development and Web Designing.
-
-*   🌍  I'm based in Istanbul, Turkiye
-*   ✉️  You can contact me at [selimemrem06@gmail.com](mailto:selimemrem@gmail.com)
-*   🧠  I'm learning C#,Swift,SQL and Python
-
-
-
-
+A Filipino self-taught software engineer, open-source maintainer, cybersecurity researcher, tech community builder, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
 
 
 ------------------
