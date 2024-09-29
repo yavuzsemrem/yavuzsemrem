@@ -1,4 +1,4 @@
-# Hi, I'm Yavuz Selim Emrem () [![nominate](https://img.shields.io/badge/nominate-%20@warengonzaga%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
+# Hi, I'm Yavuz Selim Emrem  [![nominate](https://img.shields.io/badge/nominate-%20@warengonzaga%20as%20GitHub%20Star-yellow.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://stars.github.com/nominate)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Enthusiast;Technopreneur)](https://git.io/typing-svg)
 
