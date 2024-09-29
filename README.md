@@ -3,7 +3,7 @@
 </div>
 
  
-<img align="center" src="https://cdn.dribbble.com/users/846207/screenshots/5495768/apple-logo-2018.gif" width="800" height="800"></img>
+<img align="center" src="https://cdn.dribbble.com/users/846207/screenshots/5495768/apple-logo-2018.gif" width="800" height="600"></img>
 
 
 
