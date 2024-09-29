@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&weight=700&pause=1000&background=FF1E6400&width=435&lines=Passionate+about+Swift+Development;+IOS+Developer+%26+Computer+Programmer;I+lose+my+mind+when+I+work+with+it+)](https://git.io/typing-svg)
 
-<img align="center" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/wwdc23-keynote-logo.gif?w=1200" width="800" height="600"></img>
+<img align="center" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/wwdc23-keynote-logo.gif?w=1200" width="750" height="500"></img>
 
 I’m a passionate IOS Developer with experience in various technologies including Swift, SwiftUI, C#, .NET, SQL, and HTML/CSS. I love creating robust, scalable, and efficient software solutions, with a focus on clean code and architecture. 💻
 
