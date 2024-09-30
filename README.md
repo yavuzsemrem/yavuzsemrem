@@ -86,8 +86,6 @@ let developer = Developer(
 [![Spotify](https://readme-spotify.Spotify-widget.com/api/spotify)](https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra)
 
 
-<img align="center" src="https://www.absolutegeeks.com/wp-content/uploads/2024/08/large_2x.gif" width="400" height="200"></img>
-
 
 
 <br>
