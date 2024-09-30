@@ -76,15 +76,19 @@ let developer = Developer(
 <br>
 
 
-## Spotify playing 🎧
+## My current playing songs 🎧
 
-[![Mix Music](https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4akRSn4A8ED1msFLvbmXvI?si=e62acfdb00dd4507&pt=b047cfb36efbcb2e31dfd1d1023f3405) 
-[![Pop Music](https://img.shields.io/badge/Pop%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) 
-[![Rap Music](https://img.shields.io/badge/Rap%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1l7u0WZIQ3GHNe97uDaw28?si=c92fa01e2c2b469d) 
-[![R&B Music](https://img.shields.io/badge/R&B%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2RqIekw5xSufcGM02cSec5?si=efa754fadea24d3d)
 
-[![Spotify](https://readme-spotify.Spotify-widget.com/api/spotify)](https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=00a5n7i8o5xwfdbq9kz6i8wra&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" width="400"/>
+    </td>
+    <td>
+      <img src="https://steamuserimages-a.akamaihd.net/ugc/2486639889008178056/666C0587A4366B4E9F44A346FBBDD35D8BEF36A5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="800"/>
+    </td>
+  </tr>
+</table>
 
 
 
