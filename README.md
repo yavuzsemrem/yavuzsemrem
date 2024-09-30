@@ -63,13 +63,10 @@
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yavuzsemrem&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /><br/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzsemrem&theme=radical&hide_border=true" /><br/>
-</p>
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzsemrem&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
