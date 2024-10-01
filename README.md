@@ -17,7 +17,6 @@
 <div align="center">I’m a passionate IOS Developer with experience in various technologies including Swift, SwiftUI, C#, .NET, SQL, and HTML/CSS. I love creating robust, scalable, and efficient software solutions, with a focus on clean code and architecture. </div>
 
 
-
 <br>
 <br>
 
@@ -42,14 +41,23 @@
 
 
 
-
 </p>
 
 <div align="center">
   <img src="https://s3.ezgif.com/tmp/ezgif-3-08a65dc2a8.gif" width="500">
 </div>
 
-  
+<br>
+<br>
+
+<div align="center">👋 Hey there! I'm Yavuz Selim Emrem, a curious mind born in 2003, building the future one Swift line at a time!  I'm all about crafting sleek, functional iOS apps that solve problems and spark joy. When I'm not debugging or chasing the latest tech trends, you can probably find me dreaming up my next project or sipping coffee like a true code wizard ☕. Let's code, create, and conquer together! 🚀 </div>
+
+
+
+
+<br>
+<br>
+
 
 
 ## A little more about me 
@@ -73,8 +81,6 @@ let developer = Developer(
     )
 )
 ```
-
-
 
 
 <br>
