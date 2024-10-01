@@ -53,7 +53,8 @@
 
 
 
-## A little more about me 
+
+## A little more about me  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"/>
 
 ```swift
 
@@ -101,7 +102,7 @@ displayDeveloperInfo(developer: developer)
 <br>
 
 
-## My current playing songs 🎧
+## My current playing songs <img src="https://media.tenor.com/t9h49dxmBzkAAAAi/spotify-logo.gif" width="40"/>
 
 
 <table>
@@ -121,7 +122,7 @@ displayDeveloperInfo(developer: developer)
 <br>
 
 
-## Stats
+## Stats <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
 <table>
   <tr>
     <td>
