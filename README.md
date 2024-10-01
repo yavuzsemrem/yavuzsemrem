@@ -41,7 +41,7 @@
 
 </p>
 
-<img align="center" src="https://s3.ezgif.com/tmp/ezgif-3-08a65dc2a8.gif" width="700">
+<img align="center" src="https://s3.ezgif.com/tmp/ezgif-3-08a65dc2a8.gif" width="800">
   
 <br>
 <br>
