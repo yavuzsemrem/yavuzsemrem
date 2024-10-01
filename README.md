@@ -56,30 +56,6 @@
 ## A little more about me 
 
 ```swift
-struct Developer {
-    let name: String
-    let pronouns: String
-    let age: Int
-    let bio: String
-    let code: [String]
-    let askMeAbout: [String]
-    let technologies: Technologies
-}
-
-struct Technologies {
-    let tools: Tools
-    let codeEditor: CodeEditor
-}
-
-struct Tools {
-    let cloudDatabase: [String]
-    let cloudServer: [String]
-}
-
-struct CodeEditor {
-    let competitiveProgramming: [String]
-    let frontEndDev: [String]
-}
 
 // Create a developer instance
 let developer = Developer(
