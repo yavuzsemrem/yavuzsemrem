@@ -56,23 +56,68 @@
 ## A little more about me 
 
 ```swift
+struct Developer {
+    let name: String
+    let pronouns: String
+    let age: Int
+    let bio: String
+    let code: [String]
+    let askMeAbout: [String]
+    let technologies: Technologies
+}
+
+struct Technologies {
+    let tools: Tools
+    let codeEditor: CodeEditor
+}
+
+struct Tools {
+    let cloudDatabase: [String]
+    let cloudServer: [String]
+}
+
+struct CodeEditor {
+    let competitiveProgramming: [String]
+    let frontEndDev: [String]
+}
+
+// Create a developer instance
 let developer = Developer(
-    name: "yavuz selim"
+    name: "Yavuz Selim Emrem",
     pronouns: "He/Him",
     age: 20,
-    code: ["Swift", "SwiftUI", ".NET" ,"C#", "HTML", "CSS"],
-    askMeAbout: ["ios dev", "backend dev", "web dev"],
+    bio: "A passionate iOS Developer who loves creating robust and efficient applications. Always eager to learn new technologies and improve my skills!",
+    code: ["Swift", "SwiftUI", ".NET", "C#", "HTML", "CSS"],
+    askMeAbout: ["iOS Development", "Backend Development", "Web Development", "Mobile App Design", "Clean Code Practices"],
     technologies: Technologies(
         tools: Tools(
-            cloudDatabase: ["firebase", "back4app"],
-            cloudServer: ["firebase", "parse"]
+            cloudDatabase: ["Firebase", "Back4App"],
+            cloudServer: ["Firebase", "Parse"]
         ),
         codeEditor: CodeEditor(
-            competitiveProgramming: ["XCode"],
-            frontEndDev: ["XCode"]
+            competitiveProgramming: ["Xcode"],
+            frontEndDev: ["Xcode"]
         )
     )
 )
+
+// Function to display developer details
+func displayDeveloperInfo(developer: Developer) {
+    print("👤 Name: \(developer.name)")
+    print("🔤 Pronouns: \(developer.pronouns)")
+    print("🎂 Age: \(developer.age)")
+    print("📝 Bio: \(developer.bio)")
+    print("💻 Languages: \(developer.code.joined(separator: ", "))")
+    print("❓ Ask Me About: \(developer.askMeAbout.joined(separator: ", "))")
+    print("☁️ Cloud Databases: \(developer.technologies.tools.cloudDatabase.joined(separator: ", "))")
+    print("🌐 Cloud Servers: \(developer.technologies.tools.cloudServer.joined(separator: ", "))")
+    print("🛠️ Code Editors: \(developer.technologies.codeEditor.competitiveProgramming.joined(separator: ", ")) for Competitive Programming")
+    print("🖥️ Code Editors: \(developer.technologies.codeEditor.frontEndDev.joined(separator: ", ")) for Frontend Development")
+}
+
+// Call the function to display info
+displayDeveloperInfo(developer: developer)
+
 ```
 
 
