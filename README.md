@@ -46,8 +46,6 @@
 </div>
 
   
-<br>
-<br>
 
 
 ## A little more about me 
