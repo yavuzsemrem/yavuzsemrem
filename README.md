@@ -50,8 +50,6 @@
 <br>
 <br>
 
-<div align="center">👋 Hey there! I'm Yavuz Selim Emrem, a curious mind born in 2003, building the future one Swift line at a time!  I'm all about crafting sleek, functional iOS apps that solve problems and spark joy. When I'm not debugging or chasing the latest tech trends, you can probably find me dreaming up my next project or sipping coffee like a true code wizard ☕. Let's code, create, and conquer together! 🚀 </div>
-
 
 
 
