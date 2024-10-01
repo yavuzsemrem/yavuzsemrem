@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<div align="center">My name is Yavuz Selim Emrem, born on November 14, 2003, in Bursa. I graduated from the Computer Programming department at Istanbul Aydın University. I’m a passionate iOS Developer with experience in various technologies including Swift, SwiftUI, C#, .NET, SQL, and HTML/CSS. My strong interest in the Swift programming language drives me to continuously improve in mobile app development. I take great pleasure in creating both creative and functional solutions with Swift, and my projects reflect this passion. I enjoy developing robust, scalable, and efficient software solutions, always prioritizing clean code and architecture. </div>
+<div align="center">I’m a passionate iOS Developer with experience in various technologies including Swift, SwiftUI, C#, .NET, SQL, and HTML/CSS.  </div>
 
 
 
