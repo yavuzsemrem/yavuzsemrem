@@ -41,7 +41,7 @@
 
 </p>
 
-<img align="right" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/wwdc-swift.gif?w=1200">
+<img align="center" src="https://s3.ezgif.com/tmp/ezgif-3-08a65dc2a8.gif" width="1200">
   
 <br>
 <br>
