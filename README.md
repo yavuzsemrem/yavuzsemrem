@@ -82,10 +82,10 @@ let developer = Developer(
 <table>
   <tr>
     <td>
-      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=00a5n7i8o5xwfdbq9kz6i8wra&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" width="400"/>
+      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=00a5n7i8o5xwfdbq9kz6i8wra&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" width="500"/>
     </td>
     <td>
-      <img src="https://steamuserimages-a.akamaihd.net/ugc/2486639889008178056/666C0587A4366B4E9F44A346FBBDD35D8BEF36A5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="800"/>
+      <img src="https://steamuserimages-a.akamaihd.net/ugc/2486639889008178056/666C0587A4366B4E9F44A346FBBDD35D8BEF36A5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="900"/>
     </td>
   </tr>
 </table>
