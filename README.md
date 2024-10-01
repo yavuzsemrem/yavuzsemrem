@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://s1.ezgif.com/tmp/ezgif-1-83eea55ae5.gif" width="630" height="350">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2486639889011959822/0270A96828BB43A66F4F661FCE5838CD1C478771/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="630" height="350">
 </div>
 
 
