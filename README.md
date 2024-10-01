@@ -5,7 +5,7 @@
 </p>
 
 
-<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/2048621067991269267/A0790399D95AD898119634A5CECAE6370E37FA11/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="1000" height="600"></img>
+<img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/2048621067991269267/A0790399D95AD898119634A5CECAE6370E37FA11/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="800"></img>
 <br>
 <br>
 
