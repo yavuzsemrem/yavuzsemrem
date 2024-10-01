@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://s1.ezgif.com/tmp/ezgif-1-83eea55ae5.gif" width="600" height="600">
+  <img src="https://s1.ezgif.com/tmp/ezgif-1-83eea55ae5.gif" width="900" height="500">
 </div>
 
 
