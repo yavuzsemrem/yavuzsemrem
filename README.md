@@ -5,7 +5,12 @@
 </p>
 
 
-<img align="center" src="https://s1.ezgif.com/tmp/ezgif-1-83eea55ae5.gif" width="800"></img>
+<div align="center">
+  <img src="https://s1.ezgif.com/tmp/ezgif-1-83eea55ae5.gif" width="600" height="600">
+</div>
+
+
+
 <br>
 <br>
 
