@@ -44,7 +44,7 @@
 </p>
 
 <div align="center">
-  <img src="https://steamcommunity.com/sharedfiles/filedetails/?id=3341255069" width="500">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2486639889011880017/2EC8E1B8496D926EA02CD7F936E9BF67DF10E91E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="500">
 </div>
 
 
