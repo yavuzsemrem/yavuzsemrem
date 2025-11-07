@@ -1,8 +1,3 @@
-<div align="center">
-
-<!-- Modern Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:22d3ee,50:38bdf8,100:60a5fa&text=&fontSize=0"/>
-
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=35&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Yavuz+Selim+Emrem;Software+Developer+%26+Founder;Building+Digital+Solutions" alt="Typing SVG" />
 </h1>
@@ -224,10 +219,3 @@ const yavuz = {
 </div>
 
 <br/>
-
-<!-- Footer Wave -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22d3ee,50:38bdf8,100:60a5fa&section=footer"/>
-
-</div>
