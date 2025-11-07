@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=35&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Yavuz+Selim+Emrem;Software+Developer+%26+Founder;Building+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=35&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Yavuz+Selim+Emrem;Software+Developer+%26+Founder;Building+Digital+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,136 +19,140 @@
 
 ### 👨‍💻 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+<table width="95%">
+<tr>
+<td width="40%" align="center">
 
-```typescript
-const yavuz = {
-    name: "Yavuz Selim Emrem",
-    role: "Software Developer & Founder",
-    company: "Softiel Software",
-    location: "🌍 Earth",
-    age: 20,
-    
-    workingOn: {
-        current: ["Mobile Apps", "Backend APIs", "Cloud Solutions"],
-        learning: ["Advanced SwiftUI", "System Design", "Cloud Architecture"]
-    },
-    
-    expertise: {
-        mobile: ["Swift", "SwiftUI", "iOS Development"],
-        backend: ["C#", ".NET", "Firebase", "SQL"],
-        frontend: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-        design: ["UI/UX", "Adobe Creative Suite"]
-    },
-    
-    interests: ["Clean Code", "Scalable Architecture", "Innovation"],
-    motto: "Building digital solutions that make a difference ✨"
-};
-```
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+
+</td>
+<td width="60%" valign="top">
+
+<br/>
+
+**🧑‍💻 Yavuz Selim Emrem**  
+Software Developer & Founder at Softiel Software
+
+<br/>
+
+**📍 Location:** Istanbul, Turkey  
+**🎯 Focus:** Mobile & Web Application Development  
+**💼 Company:** [Softiel Software](https://www.softiel.com)
+
+<br/>
+
+**🚀 What I Do:**
+- 📱 **Mobile Development** - Building native iOS applications
+- 🌐 **Web Development** - Creating modern, responsive web applications  
+- 🔧 **Backend Development** - Developing robust APIs and server solutions
+
+<br/>
+
+**💡 Currently Working On:**
+- Mobile Applications with Swift & SwiftUI
+- Web Applications with Next.js & TypeScript
+- Backend APIs with .NET & ASP.NET Core
+
+<br/>
+
+**💻 Tech Stack:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=swift" width="40" height="40" alt="Swift"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt=".NET"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- Softiel Software Modern Card -->
+<!-- Softiel Software Showcase -->
 <div align="center">
 
-### 🚀 Softiel Software
-
-<table width="95%">
+<table width="100%">
 <tr>
-<td align="center" width="100%">
+<td align="center">
 
-<br/>
+<img src="https://www.softiel.com/transparent.webp" alt="Softiel Software Logo" width="140"/>
 
-<img src="https://www.softiel.com/transparent.webp" alt="Softiel Software" width="140"/>
+<h2 style="color: #60a5fa; font-size: 36px; font-weight: 700;">
+  Softiel Software
+</h2>
 
-<br/>
-<br/>
-
-<p style="font-size: 18px; line-height: 1.8;">
-  <strong>Creating Innovative Software Solutions</strong><br/>
-  <sub>Mobile Applications • Web Development • Digital Transformation</sub>
+<p style="color: #a5f3fc; font-size: 18px; margin: 10px auto; max-width: 700px;">
+  Creating Innovative Software Solutions for the Digital World
 </p>
 
 <br/>
 
 <a href="https://www.softiel.com">
-  <img src="https://img.shields.io/badge/Visit_Website-38bdf8?style=for-the-badge&logo=safari&logoColor=white&labelColor=0284c7" height="36"/>
+  <img src="https://raw.githubusercontent.com/yavuzsemrem/SoftielCMS/master/public/images/softiel-website.png" alt="Softiel Software Website" width="90%" style="border-radius: 15px; box-shadow: 0 8px 24px rgba(96, 165, 250, 0.2);"/>
 </a>
-<img src="https://img.shields.io/badge/Est._2024-a5f3fc?style=for-the-badge&logo=calendar&logoColor=white&labelColor=22d3ee" height="36"/>
-<img src="https://img.shields.io/badge/Active_Projects-60a5fa?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1d4ed8" height="36"/>
 
 <br/>
 <br/>
 
+<table width="80%">
+<tr>
+<td align="center" width="25%" style="padding: 15px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="40" height="40"/>
+  <br/>
+  <br/>
+  <strong style="color: #60a5fa; font-size: 14px;">Mobile Apps</strong>
+  <br/>
+  <span style="color: #7dd3fc; font-size: 12px;">iOS • Native</span>
+</td>
+<td align="center" width="25%" style="padding: 15px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40" height="40"/>
+  <br/>
+  <br/>
+  <strong style="color: #38bdf8; font-size: 14px;">Web Development</strong>
+  <br/>
+  <span style="color: #7dd3fc; font-size: 12px;">Next.js • React</span>
+</td>
+<td align="center" width="25%" style="padding: 15px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40"/>
+  <br/>
+  <br/>
+  <strong style="color: #22d3ee; font-size: 14px;">Backend APIs</strong>
+  <br/>
+  <span style="color: #7dd3fc; font-size: 12px;">.NET • ASP.NET</span>
+</td>
+<td align="center" width="25%" style="padding: 15px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" height="40"/>
+  <br/>
+  <br/>
+  <strong style="color: #60a5fa; font-size: 14px;">Innovation</strong>
+  <br/>
+  <span style="color: #7dd3fc; font-size: 12px;">Modern • Scalable</span>
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-<!-- Tech Stack & Let's Connect Side by Side -->
-<div align="center">
-
-<table width="95%">
-<tr>
-<td width="50%" valign="top" align="center" style="min-height: 350px;">
-
-### 🛠️ Technology Stack
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=swift,cs,js,html,css&perline=5&theme=dark" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=dotnet,firebase,bootstrap,git,github&perline=5&theme=dark" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=xcode,vscode,ps,ai,ae&perline=5&theme=dark" />
-
-<br/>
-
-</td>
-<td width="50%" valign="top" align="center" style="min-height: 350px;">
-
-### 🤝 Let's Connect
-
-<br/>
-
-<a href="https://www.linkedin.com/in/yavuz-selim-emrem-65baa0273/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
-</a>
-<a href="mailto:selimemrem@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/>
-</a>
-<a href="https://www.instagram.com/_yavuzsemrem/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/>
-</a>
-<a href="https://x.com/s3limm06">
-  <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X"/>
-</a>
-
-<br/>
-<br/>
-
-<a href="https://discord.com/users/s3limm#1529">
-  <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord"/>
-</a>
-<a href="https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra?si=36cfe13b9bbb4b85">
-  <img src="https://skillicons.dev/icons?i=spotify" width="48" height="48" alt="Spotify"/>
-</a>
-<a href="https://steamcommunity.com/profiles/76561199496950614/">
-  <img src="https://cdn.simpleicons.org/steam/000000" width="48" height="48" alt="Steam"/>
-</a>
 <a href="https://www.softiel.com">
-  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Website"/>
+  <img src="https://img.shields.io/badge/🌐_Visit_Our_Website-www.softiel.com-38bdf8?style=for-the-badge&labelColor=0284c7" height="42"/>
 </a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📅_Est._2024-a5f3fc?style=for-the-badge&labelColor=22d3ee" height="42"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🚀_Active_Development-60a5fa?style=for-the-badge&labelColor=1d4ed8" height="42"/>
 
+<br/>
 <br/>
 
 </td>
@@ -159,64 +163,13 @@ const yavuz = {
 
 <br/>
 
-<!-- GitHub Stats -->
-<div align="center">
-
-### 📊 GitHub Analytics
-
-<table width="95%">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yavuzsemrem&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=38bdf8&text_color=a5f3fc&ring_color=60a5fa&border_radius=15&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" width="100%" height="170" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yavuzsemrem&hide_border=true&background=0d1117&stroke=60a5fa&ring=38bdf8&fire=60a5fa&currStreakLabel=a5f3fc&sideLabels=60a5fa&currStreakNum=a5f3fc&border_radius=15" width="100%" height="170" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- Most Used Languages & Spotify Side by Side -->
-<div align="center">
-
-<table width="95%">
-<tr>
-<td width="50%" valign="top" align="center" style="min-height: 240px;">
-
-### 📊 Most Used Languages
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzsemrem&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=a5f3fc&border_radius=15&langs_count=8" width="100%" />
-
-</td>
-<td width="50%" valign="top" align="center" style="min-height: 240px;">
-
-### 🎵 Now Playing
-
-<br/>
-
-<a href="https://open.spotify.com/user/00a5n7i8o5xwfdbq9kz6i8wra">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=00a5n7i8o5xwfdbq9kz6i8wra&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=38bdf8&bar_color_cover=true" width="100%" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 <!-- Activity Graph -->
 <div align="center">
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yavuzsemrem&bg_color=0d1117&color=60a5fa&line=38bdf8&point=a5f3fc&area=true&hide_border=true&border_radius=15&custom_title=Contribution%20Graph&area_color=38bdf8" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yavuzsemrem&bg_color=0d1117&color=60a5fa&line=38bdf8&point=a5f3fc&area=true&hide_border=true&border_radius=15&custom_title=Contribution%20Graph&area_color=38bdf8" width="100%" />
 
 </div>
 
