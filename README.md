@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Software%20Development-60a5fa?style=flat-square&labelColor=1d4ed8" />
   <img src="https://img.shields.io/badge/Company-Softiel%20Software-38bdf8?style=flat-square&labelColor=0284c7" />
-  <img src="https://img.shields.io/badge/Location-Earth%20🌍-a5f3fc?style=flat-square&labelColor=22d3ee" />
+  <img src="https://img.shields.io/badge/Location-Istanbul%20🌍-a5f3fc?style=flat-square&labelColor=22d3ee" />
 </p>
 
 </div>
