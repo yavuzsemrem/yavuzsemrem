@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=35&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Yavuz+Selim+Emrem;Software+Developer+%26+Founder;Building+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=900&size=35&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Yavuz+Selim+Emrem;Software+Developer+%26+Founder;Building+Digital+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,9 +15,6 @@
 <br/>
 
 <!-- About Me Section -->
-<div align="center">
-
-### 👨‍💻 About Me
 
 <table width="95%">
 <tr>
@@ -158,18 +155,6 @@ Software Developer & Founder at Softiel Software
 </td>
 </tr>
 </table>
-
-</div>
-
-<br/>
-
-
-<!-- Activity Graph -->
-<div align="center">
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yavuzsemrem&bg_color=0d1117&color=60a5fa&line=38bdf8&point=a5f3fc&area=true&hide_border=true&border_radius=15&custom_title=Contribution%20Graph&area_color=38bdf8" width="100%" />
 
 </div>
 
