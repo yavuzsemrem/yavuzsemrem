@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=35&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Yavuz+Selim+Emrem;Software+Developer+%26+Founder;Building+Digital+Solutions" alt="Typing SVG" />
 </h1>
