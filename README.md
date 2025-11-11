@@ -18,5 +18,4 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Focus-Software%20Development-60a5fa?style=for-the-badge&labelColor=1d4ed8" />
-<img src="https://img.shields.io/badge/Company-Softiel%20Software-38bdf8?style=for-the-badge&labelColor=0284c7" />
+<img src="https://img.shields.io/badge/Focus-Software%20Development-60a5fa?style=for-the-badge&labelColor=1d4ed8" /> <img src="https://img.shields.io/badge/Company-Softiel%20Software-38bdf8?style=for-the-badge&labelColor=0284c7" />
